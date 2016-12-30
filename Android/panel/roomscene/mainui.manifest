@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1304878286
+CRC: 1022244834
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -84,5 +84,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/Resources/Panel/RoomScene/MainUI.prefab
+- Assets/LRS/AssetBundles/Panel/RoomScene/MainUI.prefab
 Dependencies: []

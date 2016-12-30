@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 547712840
+CRC: 1838858775
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -64,5 +64,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/Resources/Panel/MainMenu/GameRulesPanel.prefab
+- Assets/LRS/AssetBundles/Panel/MainMenu/GameRulesPanel.prefab
 Dependencies: []

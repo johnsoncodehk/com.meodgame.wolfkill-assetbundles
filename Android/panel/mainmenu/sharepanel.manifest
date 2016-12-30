@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2189959440
+CRC: 4040610419
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -66,5 +66,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/Resources/Panel/MainMenu/SharePanel.prefab
+- Assets/LRS/AssetBundles/Panel/MainMenu/SharePanel.prefab
 Dependencies: []

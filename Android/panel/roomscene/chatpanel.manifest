@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1410552457
+CRC: 1774305143
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -72,5 +72,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/Resources/Panel/RoomScene/ChatPanel.prefab
+- Assets/LRS/AssetBundles/Panel/RoomScene/ChatPanel.prefab
 Dependencies: []

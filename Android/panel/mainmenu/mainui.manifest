@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2739917536
+CRC: 1801011373
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -64,5 +64,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/Resources/Panel/MainMenu/MainUI.prefab
+- Assets/LRS/AssetBundles/Panel/MainMenu/MainUI.prefab
 Dependencies: []

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1308499182
+CRC: 2649599378
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -64,5 +64,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/Resources/Panel/MainMenu/PayPanel.prefab
+- Assets/LRS/AssetBundles/Panel/MainMenu/PayPanel.prefab
 Dependencies: []

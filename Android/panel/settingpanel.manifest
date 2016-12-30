@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3873183719
+CRC: 831319388
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -74,5 +74,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/Resources/Panel/SettingPanel.prefab
+- Assets/LRS/AssetBundles/Panel/SettingPanel.prefab
 Dependencies: []

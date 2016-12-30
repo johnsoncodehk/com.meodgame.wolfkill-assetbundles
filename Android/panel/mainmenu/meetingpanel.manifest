@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 81291615
+CRC: 3584126138
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -56,5 +56,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/Resources/Panel/MainMenu/MeetingPanel.prefab
+- Assets/LRS/AssetBundles/Panel/MainMenu/MeetingPanel.prefab
 Dependencies: []

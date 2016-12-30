@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3870598193
+CRC: 1510695803
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -62,5 +62,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/Resources/Panel/DialogBox.prefab
+- Assets/LRS/AssetBundles/Panel/DialogBox.prefab
 Dependencies: []

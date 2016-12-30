@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1865460097
+CRC: 353289085
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -58,5 +58,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/Resources/Panel/MainMenu/EnterRoomPanel.prefab
+- Assets/LRS/AssetBundles/Panel/MainMenu/EnterRoomPanel.prefab
 Dependencies: []

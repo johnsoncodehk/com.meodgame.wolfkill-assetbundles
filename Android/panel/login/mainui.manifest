@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1086967748
+CRC: 358322857
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d13524513e2b37f9f106dfaf1ef93a6
+    Hash: 6ff844aca0dfa75d322f0aac40ed0b41
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 36504069181694d7f9dcf67a11b666be
+    Hash: 8b5ad430f6af0cfd782ec61d55243950
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,6 +29,8 @@ ClassTypes:
   Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
@@ -58,5 +60,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/Resources/Panel/LogIn/MainUI.prefab
+- Assets/LRS/AssetBundles/Panel/LogIn/MainUI.prefab
 Dependencies: []

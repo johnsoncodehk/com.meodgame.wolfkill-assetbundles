@@ -1,21 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1327912509
+CRC: 2982763460
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 48d1d9dd26709423a7d3e9ae9cba437a
+    Hash: 4169dea8419839a864afb3d844c5d671
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e2cbae1a55c167f7e2d5512369c12a71
+    Hash: 4ae83becb95ab3addd740f5001936360
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
-- Class: 21
-  Script: {instanceID: 0}
 - Class: 28
-  Script: {instanceID: 0}
-- Class: 48
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
@@ -24,26 +20,24 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
-  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
-  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
-  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: f45bcea61c8164e2b90febb20573a5f7, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: ba853257e38cc4a4c8599bda4f557103, type: 3}
+  Script: {fileID: 11500000, guid: 2627060303ae7451b8222d48f395a077, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 661bfc771ee1045328fd305a69401790, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f0ebaa5fc4d54365bf1b74b0344c730, type: 3}
 - Class: 115
-  Script: {instanceID: 0}
-- Class: 128
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
@@ -56,5 +50,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/AssetBundles/Panel/MainMenu/GameRulesPanel.prefab
+- Assets/LRS/AssetBundles/Panel/RoomScene/MatchingPanel.prefab
 Dependencies: []

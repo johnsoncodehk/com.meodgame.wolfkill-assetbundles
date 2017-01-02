@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2010077754
+CRC: 1692385685
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -34,4 +34,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_10:
       Name: panel/settingpanel
+      Dependencies: {}
+    Info_11:
+      Name: panel/roomscene/matchingpanel
       Dependencies: {}

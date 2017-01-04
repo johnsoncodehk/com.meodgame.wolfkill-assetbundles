@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2804120594
+CRC: 3679220019
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -39,8 +39,8 @@ AssetBundleManifest:
       Name: panel/roomscene/chatpanel
       Dependencies: {}
     Info_12:
-      Name: panel/login/mainui
+      Name: panel/roomscene/mainui
       Dependencies: {}
     Info_13:
-      Name: panel/roomscene/mainui
+      Name: panel/login/mainui
       Dependencies: {}

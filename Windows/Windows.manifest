@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2025565433
+CRC: 123847588
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -21,26 +21,20 @@ AssetBundleManifest:
       Name: panel/roomscene/matchingpanel
       Dependencies: {}
     Info_6:
-      Name: panel/login/loginpanel
-      Dependencies: {}
-    Info_7:
       Name: panel/mainmenu/sharepanel
       Dependencies: {}
-    Info_8:
+    Info_7:
       Name: panel/mainmenu/enterroompanel
       Dependencies: {}
-    Info_9:
+    Info_8:
       Name: panel/dialogbox
       Dependencies: {}
-    Info_10:
+    Info_9:
       Name: panel/mainmenu/userinformation
       Dependencies: {}
-    Info_11:
+    Info_10:
       Name: panel/roomscene/chatpanel
       Dependencies: {}
-    Info_12:
-      Name: panel/login/mainui
-      Dependencies: {}
-    Info_13:
+    Info_11:
       Name: panel/roomscene/mainui
       Dependencies: {}

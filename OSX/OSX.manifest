@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3601291657
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: panel/mainmenu/mainui
+      Dependencies: {}
+    Info_1:
+      Name: panel/settingpanel
+      Dependencies: {}
+    Info_2:
+      Name: panel/mainmenu/gamerulespanel
+      Dependencies: {}
+    Info_3:
+      Name: panel/mainmenu/createroompanel
+      Dependencies: {}
+    Info_4:
+      Name: panel/mainmenu/paypanel
+      Dependencies: {}
+    Info_5:
+      Name: panel/roomscene/matchingpanel
+      Dependencies: {}
+    Info_6:
+      Name: panel/mainmenu/sharepanel
+      Dependencies: {}
+    Info_7:
+      Name: panel/mainmenu/enterroompanel
+      Dependencies: {}
+    Info_8:
+      Name: panel/dialogbox
+      Dependencies: {}
+    Info_9:
+      Name: panel/mainmenu/userinformation
+      Dependencies: {}
+    Info_10:
+      Name: panel/roomscene/chatpanel
+      Dependencies: {}
+    Info_11:
+      Name: panel/roomscene/mainui
+      Dependencies: {}

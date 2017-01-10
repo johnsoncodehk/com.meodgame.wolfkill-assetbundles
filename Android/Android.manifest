@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3439526534
+CRC: 4011085236
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -37,4 +37,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_11:
       Name: panel/roomscene/mainui
+      Dependencies: {}
+    Info_12:
+      Name: panel/roomscene/gameendpanel
       Dependencies: {}

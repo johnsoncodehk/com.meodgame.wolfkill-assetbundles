@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 339353117
+CRC: 1739005112
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f666bd64b807a46d30aca5a438eb4aa9
+    Hash: bcd70dfc7e35cd71d8bb274db60451ee
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f40cf67f93a25146e13f72312241d44f
+    Hash: 8a1df4431096388fba45af95255a8393
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,13 +34,29 @@ ClassTypes:
 - Class: 114
   Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
   Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2627060303ae7451b8222d48f395a077, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 0f0ebaa5fc4d54365bf1b74b0344c730, type: 3}
+  Script: {fileID: 11500000, guid: 2bc45eb532a5f4c9a95e676f7a73082e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 661bfc771ee1045328fd305a69401790, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3b66af80614a3b40a857b25497db3b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c0d51998ba92498dbd31ce9506ba3a3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b632558be04182a419c6a21c79930188, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6864c39fbcfef4eb7a01f940ea939b5b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -56,5 +72,5 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
-- Assets/LRS/AssetBundles/Panel/RoomScene/MatchingPanel.prefab
+- Assets/LRS/AssetBundles/Panel/RoomScene/PoisonSkillPlane.prefab
 Dependencies: []

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4011085236
+CRC: 3251020052
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -12,32 +12,41 @@ AssetBundleManifest:
       Name: panel/mainmenu/gamerulespanel
       Dependencies: {}
     Info_3:
-      Name: panel/mainmenu/createroompanel
+      Name: panel/mainmenu/shoppanel
       Dependencies: {}
     Info_4:
-      Name: panel/mainmenu/paypanel
+      Name: panel/mainmenu/createroompanel
       Dependencies: {}
     Info_5:
-      Name: panel/roomscene/matchingpanel
+      Name: panel/mainmenu/paypanel
       Dependencies: {}
     Info_6:
-      Name: panel/mainmenu/sharepanel
+      Name: panel/roomscene/gameendpanel
       Dependencies: {}
     Info_7:
-      Name: panel/mainmenu/enterroompanel
+      Name: panel/roomscene/matchingpanel
       Dependencies: {}
     Info_8:
-      Name: panel/dialogbox
+      Name: panel/mainmenu/sharepanel
       Dependencies: {}
     Info_9:
-      Name: panel/mainmenu/userinformation
+      Name: panel/mainmenu/enterroompanel
       Dependencies: {}
     Info_10:
-      Name: panel/roomscene/chatpanel
+      Name: panel/roomscene/cureskillplane
       Dependencies: {}
     Info_11:
-      Name: panel/roomscene/mainui
+      Name: panel/dialogbox
       Dependencies: {}
     Info_12:
-      Name: panel/roomscene/gameendpanel
+      Name: panel/mainmenu/userinformation
+      Dependencies: {}
+    Info_13:
+      Name: panel/roomscene/mainui
+      Dependencies: {}
+    Info_14:
+      Name: panel/roomscene/poisonskillplane
+      Dependencies: {}
+    Info_15:
+      Name: panel/roomscene/chatpanel
       Dependencies: {}

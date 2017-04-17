@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3900288037
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54093bb747225c7dfee763fd58fc40fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b4e255358bc6dfe3489204891e3f5fb1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/LRS/AssetBundles/Sprites/Items/5.png
+- Assets/LRS/AssetBundles/Sprites/Items/1.png
+- Assets/LRS/AssetBundles/Sprites/Items/7.png
+- Assets/LRS/AssetBundles/Sprites/Items/4.png
+- Assets/LRS/AssetBundles/Sprites/Items/3.png
+- Assets/LRS/AssetBundles/Sprites/Items/2.png
+- Assets/LRS/AssetBundles/Sprites/Items/6.png
+Dependencies: []

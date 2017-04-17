@@ -1,0 +1,123 @@
+ManifestFileVersion: 0
+CRC: 863391490
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: texts/language
+      Dependencies: {}
+    Info_1:
+      Name: sprites/items
+      Dependencies: {}
+    Info_2:
+      Name: sprites/skins
+      Dependencies: {}
+    Info_3:
+      Name: audios
+      Dependencies: {}
+    Info_4:
+      Name: sprites/themes
+      Dependencies: {}
+    Info_5:
+      Name: panel/mainmenu/inputpasswordui
+      Dependencies: {}
+    Info_6:
+      Name: panel/other/messagepanelui
+      Dependencies: {}
+    Info_7:
+      Name: panel/other/tipbox
+      Dependencies: {}
+    Info_8:
+      Name: panel/other/roletipbox
+      Dependencies: {}
+    Info_9:
+      Name: panel/other/buyskinpanelui
+      Dependencies: {}
+    Info_10:
+      Name: panel/other/settingpanel
+      Dependencies: {}
+    Info_11:
+      Name: prefabs/mainlua
+      Dependencies: {}
+    Info_12:
+      Name: panel/other/creatroomui
+      Dependencies: {}
+    Info_13:
+      Name: panel/mainmenu/taskui
+      Dependencies: {}
+    Info_14:
+      Name: panel/other/homebtnsui
+      Dependencies: {}
+    Info_15:
+      Name: panel/other/rankinglist
+      Dependencies: {}
+    Info_16:
+      Name: panel/other/loginui
+      Dependencies: {}
+    Info_17:
+      Name: panel/other/skinspanelui
+      Dependencies:
+        Dependency_0: sprites/skins
+    Info_18:
+      Name: panel/other/roleintroduceui
+      Dependencies: {}
+    Info_19:
+      Name: panel/other/loginpanel
+      Dependencies: {}
+    Info_20:
+      Name: panel/other/rankingcell
+      Dependencies: {}
+    Info_21:
+      Name: panel/other/dialogbox
+      Dependencies: {}
+    Info_22:
+      Name: panel/other/everytaskui
+      Dependencies:
+        Dependency_0: sprites/items
+    Info_23:
+      Name: panel/mainmenu/mainui
+      Dependencies: {}
+    Info_24:
+      Name: panel/roomscene/roombgcamera
+      Dependencies: {}
+    Info_25:
+      Name: panel/other/gameterm
+      Dependencies: {}
+    Info_26:
+      Name: panel/other/clearingpanelui
+      Dependencies: {}
+    Info_27:
+      Name: panel/other/gameflow
+      Dependencies: {}
+    Info_28:
+      Name: panel/roomscene/roomui
+      Dependencies:
+        Dependency_0: sprites/card
+    Info_29:
+      Name: panel/mainmenu/rechargeui
+      Dependencies: {}
+    Info_30:
+      Name: panel/mainmenu/qiandaoui
+      Dependencies:
+        Dependency_0: sprites/items
+    Info_31:
+      Name: panel/other/dialogpanelui
+      Dependencies: {}
+    Info_32:
+      Name: panel/other/gamerules
+      Dependencies: {}
+    Info_33:
+      Name: panel/mainmenu/userinfoui
+      Dependencies:
+        Dependency_0: sprites/items
+    Info_34:
+      Name: panel/other/friendmanagerui
+      Dependencies: {}
+    Info_35:
+      Name: panel/other/newbiesteachui
+      Dependencies: {}
+    Info_36:
+      Name: panel/other/loadingui
+      Dependencies: {}
+    Info_37:
+      Name: sprites/card
+      Dependencies: {}

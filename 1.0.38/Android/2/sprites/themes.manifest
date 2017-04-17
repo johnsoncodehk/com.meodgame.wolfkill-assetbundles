@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1812971523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e9b9630b530ed5b2d14af1e54196233
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b4e255358bc6dfe3489204891e3f5fb1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/LRS/AssetBundles/Sprites/Themes/2.png
+- Assets/LRS/AssetBundles/Sprites/Themes/1.png
+Dependencies: []

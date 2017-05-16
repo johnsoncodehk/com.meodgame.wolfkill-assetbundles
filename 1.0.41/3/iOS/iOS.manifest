@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1246914865
+CRC: 1134892100
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -120,4 +120,13 @@ AssetBundleManifest:
       Dependencies: {}
     Info_38:
       Name: panel/other/combatgainsui
+      Dependencies: {}
+    Info_39:
+      Name: panel/other/hotliveui
+      Dependencies: {}
+    Info_40:
+      Name: panel/other/livecreateroomui
+      Dependencies: {}
+    Info_41:
+      Name: panel/other/starteditinfo
       Dependencies: {}

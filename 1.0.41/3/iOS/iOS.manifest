@@ -121,12 +121,6 @@ AssetBundleManifest:
     Info_38:
       Name: panel/other/combatgainsui
       Dependencies: {}
-    Info_39:
-      Name: panel/other/hotliveui
-      Dependencies: {}
-    Info_40:
-      Name: panel/other/livecreateroomui
-      Dependencies: {}
     Info_41:
       Name: panel/other/starteditinfo
       Dependencies: {}

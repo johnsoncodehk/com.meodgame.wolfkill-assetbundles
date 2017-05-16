@@ -121,6 +121,3 @@ AssetBundleManifest:
     Info_38:
       Name: panel/other/combatgainsui
       Dependencies: {}
-    Info_41:
-      Name: panel/other/starteditinfo
-      Dependencies: {}
